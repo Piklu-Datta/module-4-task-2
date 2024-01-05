@@ -1,0 +1,21 @@
+label{
+    display: block;
+    margin-bottom: 10px;
+}
+div{
+    
+    border: 2px solid black;
+    width: 500px;
+    height: 450px;
+    position: relative;
+    margin: auto;
+   border-radius: 5px;
+    
+}
+h1{
+    text-align: center;
+  
+}
+form{
+  padding-left: 137px;
+}
